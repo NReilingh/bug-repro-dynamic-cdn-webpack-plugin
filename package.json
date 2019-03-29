@@ -1,0 +1,20 @@
+{
+  "name": "bug-repro-dynamic-cdn-webpack-plugin",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "main": "",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "webpack"
+  },
+  "author": "Nick Reilingh",
+  "devDependencies": {
+    "dynamic-cdn-webpack-plugin": "^4.0.0",
+    "module-to-cdn": "^3.1.2",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
